@@ -1,0 +1,12 @@
+name: zHub
+version: '${project.version}'
+main: me.empire.zhub.zHub
+api-version: 1.18
+authors: [ EmpireMTR ]
+commands:
+  gamemode:
+    aliases: [gm, mode, gmode. gamem]
+  gmc:
+  gms:
+  gmsp:
+  gma:

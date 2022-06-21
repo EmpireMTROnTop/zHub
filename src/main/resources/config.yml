@@ -1,0 +1,27 @@
+# Listeners / Events
+Messages:
+  Anti-Block-Place: "&cYou can't place blocks in hub!"
+  Anti-Block-Break: "&cYou can't break blocks in hub!"
+  Anti-Drop: "&cYou can't drop items in hub!"
+  Anti-Pickup: "&cYou can't pick up items in hub!"
+
+# Commands
+Gamemode:
+  Survival: "&eYour game mode has been set to &6Survival&e!"
+  Creative: "&eYour game mode has been set to &6Creative&e!"
+  Adventure: "&eYour game mode has been set to &6Adventure&e!"
+  Spectator: "&eYour game mode has been set to &6Spectator&e!"
+  # When the player changes other players game mode
+  SurvivalOther: "&eYou've set &6%target%&e's game mode to &6Survival&e!"
+  CreativeOther: "&eYou've set &6%target%&e's game mode to &6Creative&e!"
+  AdventureOther: "&eYou've set &6%target%&e's game mode to &6Adventure&e!"
+  SpectatorOther: "&eYou've set &6%target%&e's game mode to &6Spectator&e!"
+  # When the target is offline
+  OfflineTarget: "&e%target% &cis currently offline!"
+  # When the player types wrong usage
+  Usage: "&cIncorrect Usage! \n&eUsage: &6/gamemode &r<mode> (optional<player>)"
+  # When the player already in the current mode
+  AlreadySurvival: "&eYou are already in &6Survival &eMode!"
+  AlreadyCreative: "&eYou are already in &6Creative &eMode!"
+  AlreadyAdventure: "&eYou are already in &6Adventure &eMode!"
+  AlreadySpectator: "&eYou are already in &6Spectator &eMode!"
